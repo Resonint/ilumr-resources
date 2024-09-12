@@ -10,8 +10,8 @@ All 3D print files were generated from 3D MRI data collected using the *ilumr* m
 
 ### Flower
 
-![flower 3D print](refernce-images/flower.jpg)
+![flower 3D print](reference-images/flower.jpg)
 
 ### Flower Bud
 
-![flower bud 3D print](refernce-images/flower_bud.jpg)
+![flower bud 3D print](reference-images/flower_bud.jpg)
