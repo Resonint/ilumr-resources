@@ -15,3 +15,8 @@ All 3D print files were generated from 3D MRI data collected using the *ilumr* m
 ### Flower Bud
 
 ![flower bud 3D print](reference-images/flower_bud.jpg)
+
+### Whitetail Spider
+
+![whitetail spider 3D print](reference-images/spider.jpg)
+
