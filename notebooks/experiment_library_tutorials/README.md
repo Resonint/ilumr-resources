@@ -15,7 +15,9 @@ Some key features of the experiment library are:
 
 ## Experiment Class Tutorial 
 
-This tutorial covers:
+This tutorial walks you through the process of creating and customising the graphical user interface (GUI) for a pulse collect experiment. 
+
+Topics covered in the tutorial are:
  
 - Creating a custom experiment class
 - Loading a pulse sequence
@@ -24,4 +26,15 @@ This tutorial covers:
 - Adding parameter input widgets
 - Printing to the status box
 - Customising the experiment and workspace name
+
+## Plot Type Examples
+
+This tutorial shows you how to implement and update the following plot types from the matipo experiment library:
+
+- Signal Plot
+- Spectrum Plot
+- 1D Image Plot
+- 2D Image Plot
+- Line Plot
+- Scatter Plot
 
