@@ -38,3 +38,14 @@ This tutorial shows you how to implement and update the following plot types fro
 - Line Plot
 - Scatter Plot
 
+
+## Basic Experiment Templates
+
+This notebook provides templates for three basic MRI experiments using the matipo BaseExperiment library. This code provides a good starting point for creating your own custom experiments. 
+
+The experiments covered are:
+
+- Pulse collect FID experiment (with signal and spectrum plots)
+- SE based 1D imaging
+- RARE based 2D imaging (with k-space and image plots) 
+
