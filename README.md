@@ -15,5 +15,6 @@ A collection of Jupyter notebooks and accompanying python pulse sequences for:
 - [Music](https://github.com/Resonint/ilumr-resources/tree/main/notebooks/music)
 - [Relaxometry](https://github.com/Resonint/ilumr-resources/tree/main/notebooks/relaxometry)
 - [Utilities](https://github.com/Resonint/ilumr-resources/tree/main/notebooks/utilities)
+- [matipo Experiment Library (BaseExperiment) Tutorials](https://github.com/Resonint/ilumr-resources/tree/main/notebooks/experiment_library_tutorials)
 
 
